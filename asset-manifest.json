@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pray4refugees/static/css/main.d47ab3e8.css",
-    "main.js": "/pray4refugees/static/js/main.2e259628.js",
+    "main.js": "/pray4refugees/static/js/main.b0359d33.js",
     "static/js/787.28356318.chunk.js": "/pray4refugees/static/js/787.28356318.chunk.js",
     "static/media/footer1.jpg": "/pray4refugees/static/media/footer1.db67529bd888c3e40e46.jpg",
     "static/media/rohingya_mother.jpg": "/pray4refugees/static/media/rohingya_mother.35839eb9d01724b40594.jpg",
@@ -15,11 +15,11 @@
     "static/media/creative.png": "/pray4refugees/static/media/creative.44a1950bf67b3950f77d.png",
     "index.html": "/pray4refugees/index.html",
     "main.d47ab3e8.css.map": "/pray4refugees/static/css/main.d47ab3e8.css.map",
-    "main.2e259628.js.map": "/pray4refugees/static/js/main.2e259628.js.map",
+    "main.b0359d33.js.map": "/pray4refugees/static/js/main.b0359d33.js.map",
     "787.28356318.chunk.js.map": "/pray4refugees/static/js/787.28356318.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d47ab3e8.css",
-    "static/js/main.2e259628.js"
+    "static/js/main.b0359d33.js"
   ]
 }
