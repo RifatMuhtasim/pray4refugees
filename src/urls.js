@@ -9,6 +9,7 @@ export const Main_urls = () => {
     <div>
       <Routes>
         <Route path="/" element={<Home/>} />
+        <Route path="/pray4refugees" element={<Home/>} />
       </Routes>
     </div>
   )

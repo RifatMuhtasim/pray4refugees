@@ -6,6 +6,7 @@ import { Home_dashbord } from "./dashbord";
 import { Home_card_items } from "./card_items";
 import { Use_window_resize } from "../../utility/use_window_resize";
 import SendRoundedIcon from '@mui/icons-material/SendRounded';
+import refugee from '../../media/img1/world_refugee_day2021.jpg';
 
 export const Home = () => {
   const [height, width] = Use_window_resize()
