@@ -10,6 +10,7 @@ export const Main_urls = () => {
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/pray4refugees" element={<Home/>} />
+        <Route path="*" element={<Home/>} />
       </Routes>
     </div>
   )
