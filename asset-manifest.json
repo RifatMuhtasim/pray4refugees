@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/pray4refugees/static/css/main.d47ab3e8.css",
-    "main.js": "/pray4refugees/static/js/main.47105946.js",
-    "static/js/787.28356318.chunk.js": "/pray4refugees/static/js/787.28356318.chunk.js",
-    "static/media/footer1.jpg": "/pray4refugees/static/media/footer1.db67529bd888c3e40e46.jpg",
-    "static/media/rohingya_mother.jpg": "/pray4refugees/static/media/rohingya_mother.35839eb9d01724b40594.jpg",
-    "static/media/refugee-hero-1.jpg": "/pray4refugees/static/media/refugee-hero-1.ef0e4c0b9f3cfba9ed10.jpg",
-    "static/media/world_refugee_day2021.jpg": "/pray4refugees/static/media/world_refugee_day2021.247795f6336909662bf3.jpg",
-    "static/media/dashbord1.png": "/pray4refugees/static/media/dashbord1.dd29c797d3e061b8a5ab.png",
-    "static/media/dashbord4.png": "/pray4refugees/static/media/dashbord4.faac4c51e4c0727a5c8d.png",
-    "static/media/dashbord5.png": "/pray4refugees/static/media/dashbord5.0ac0e270da96b2e51ddf.png",
-    "static/media/dashbord3.png": "/pray4refugees/static/media/dashbord3.6278b9504b4be8135013.png",
-    "static/media/dashbord2.png": "/pray4refugees/static/media/dashbord2.e5f1e7363618a008388f.png",
-    "static/media/creative.png": "/pray4refugees/static/media/creative.44a1950bf67b3950f77d.png",
-    "index.html": "/pray4refugees/index.html",
-    "main.d47ab3e8.css.map": "/pray4refugees/static/css/main.d47ab3e8.css.map",
-    "main.47105946.js.map": "/pray4refugees/static/js/main.47105946.js.map",
-    "787.28356318.chunk.js.map": "/pray4refugees/static/js/787.28356318.chunk.js.map"
+    "main.css": "/static/css/main.d47ab3e8.css",
+    "main.js": "/static/js/main.c9155b39.js",
+    "static/js/787.28356318.chunk.js": "/static/js/787.28356318.chunk.js",
+    "static/media/footer1.jpg": "/static/media/footer1.db67529bd888c3e40e46.jpg",
+    "static/media/rohingya_mother.jpg": "/static/media/rohingya_mother.35839eb9d01724b40594.jpg",
+    "static/media/refugee-hero-1.jpg": "/static/media/refugee-hero-1.ef0e4c0b9f3cfba9ed10.jpg",
+    "static/media/world_refugee_day2021.jpg": "/static/media/world_refugee_day2021.247795f6336909662bf3.jpg",
+    "static/media/dashbord1.png": "/static/media/dashbord1.dd29c797d3e061b8a5ab.png",
+    "static/media/dashbord4.png": "/static/media/dashbord4.faac4c51e4c0727a5c8d.png",
+    "static/media/dashbord5.png": "/static/media/dashbord5.0ac0e270da96b2e51ddf.png",
+    "static/media/dashbord3.png": "/static/media/dashbord3.6278b9504b4be8135013.png",
+    "static/media/dashbord2.png": "/static/media/dashbord2.e5f1e7363618a008388f.png",
+    "static/media/creative.png": "/static/media/creative.44a1950bf67b3950f77d.png",
+    "index.html": "/index.html",
+    "main.d47ab3e8.css.map": "/static/css/main.d47ab3e8.css.map",
+    "main.c9155b39.js.map": "/static/js/main.c9155b39.js.map",
+    "787.28356318.chunk.js.map": "/static/js/787.28356318.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d47ab3e8.css",
-    "static/js/main.47105946.js"
+    "static/js/main.c9155b39.js"
   ]
 }
