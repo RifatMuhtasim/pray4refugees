@@ -12,6 +12,7 @@ export const Main_urls = () => {
         <Route path="/pray4refugees" element={<Home/>} />
         <Route path="*" element={<Home/>} />
       </Routes>
+
     </div>
   )
 }
