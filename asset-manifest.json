@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d47ab3e8.css",
-    "main.js": "/static/js/main.c9155b39.js",
+    "main.js": "/static/js/main.83e6c032.js",
     "static/js/787.28356318.chunk.js": "/static/js/787.28356318.chunk.js",
     "static/media/footer1.jpg": "/static/media/footer1.db67529bd888c3e40e46.jpg",
     "static/media/rohingya_mother.jpg": "/static/media/rohingya_mother.35839eb9d01724b40594.jpg",
@@ -15,11 +15,11 @@
     "static/media/creative.png": "/static/media/creative.44a1950bf67b3950f77d.png",
     "index.html": "/index.html",
     "main.d47ab3e8.css.map": "/static/css/main.d47ab3e8.css.map",
-    "main.c9155b39.js.map": "/static/js/main.c9155b39.js.map",
+    "main.83e6c032.js.map": "/static/js/main.83e6c032.js.map",
     "787.28356318.chunk.js.map": "/static/js/787.28356318.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d47ab3e8.css",
-    "static/js/main.c9155b39.js"
+    "static/js/main.83e6c032.js"
   ]
 }
