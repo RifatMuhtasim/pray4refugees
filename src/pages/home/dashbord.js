@@ -21,7 +21,7 @@ export const Home_dashbord = () => {
           }}>
             <Box sx={{ pt: "4%"}}>
               <Typography variant={ width < 600 ? "h6" : "h4"} component="div" className="text-center" sx={{ color: "rgba(200, 200, 200, 0.7)"}}>
-                Try to share our happiness with Refugees 
+                Try to share our happyness with Refugees 
               </Typography>
               <Typography variant={ width < 600 ? "body1" : "h5"} component="div" className="text-center" sx={{ pt: "1%"}}>
                 We work around the clock to protect and assist refugees all over the world.
